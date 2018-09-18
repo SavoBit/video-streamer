@@ -22,7 +22,8 @@ The Video Streamer is a component  working as a Physical Network Function (PNF) 
 There is a control interface based on Advanced Message Queuing Protocol (AMQP) for sending control/manage messages to the video-player.
 There is also an interface in charge to streaming video to the network datapath.
 
-![VS interfaces](https://github.com/Selfnet-5G/video-streamer/resources/vs_1.png?raw=true)
+![VS interfaces](https://github.com/Selfnet-5G/video-streamer/blob/master/resources/vs_1.png?raw=true)
+
 
 
 # Installation 
