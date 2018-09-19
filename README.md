@@ -105,6 +105,7 @@ optional arguments:
   -m MTU, --mtu MTU  Configures the Maximum Transmision Unit (MTU). Default
                      value is 1200
 ```
+
 # Usage Example
    Example of starting streaming with a 1500 mtu:
     ```
